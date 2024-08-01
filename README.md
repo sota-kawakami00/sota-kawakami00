@@ -1,4 +1,4 @@
-# Backend Developer in Japan👋
+# Mobile Developer in Japan👋
 ### I'm a university student
 ### Feel free to contact me anytime!👍
 #
