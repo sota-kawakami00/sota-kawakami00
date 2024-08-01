@@ -1,6 +1,7 @@
 # Mobile Developer in Japan👋
 ### I'm a university student
 ### Feel free to contact me anytime!👍
+### Let's
 #
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sota-kawakami00&show_icons=true&theme=vue-dark)
 
