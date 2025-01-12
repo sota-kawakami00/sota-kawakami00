@@ -1,11 +1,12 @@
 # Mobile Developer in Japan👋
-### I'm a university student
+### I'm a university student in Okayama
+### I'm the CTO and director of Anime Tourism Inc.
 ### Feel free to contact me anytime!👍
 ### Let's
 #
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sota-kawakami00&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sota-kawakami00&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sota-kawakami00&layout=compact&theme=dracula)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sota-kawakami00&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
