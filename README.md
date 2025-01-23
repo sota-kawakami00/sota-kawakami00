@@ -7,7 +7,7 @@
 ## About Me 🚀
 
 - 📱 Mobile Developer specializing in Flutter and Native development
-- 🎓 Currently studying at Okayama University
+- 🎓 Currently studying at Okayama University Of Science
 - 👔 CTO & Director at Anime Tourism Inc.
 - 🌐 Visit my portfolio: [HomePage](https://sotaweb.net)
 
