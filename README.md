@@ -21,6 +21,12 @@
   
 </div>
 
+## Representative Work📱
+
+- 🌏 JapanAnimeMaps[iOS](https://apps.apple.com/jp/app/japananimemaps/id6608967051)
+- 👤 JapanAnimeMaps web management tool.
+
+
 ## Tech Stack 💻
 
 ### Current Stack
