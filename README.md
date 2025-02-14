@@ -1,4 +1,4 @@
-t,# こんにちは！ 👋 
+# こんにちは！ 👋 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A737D&center=true&vCenter=true&width=435&lines=Mobile+Developer+based+in+Japan;CTO+at+Anime+Tourism+Inc.;Student+at+Okayama+University" alt="Typing SVG" />
