@@ -1,4 +1,4 @@
-# こんにちは！ 👋 
+t,# こんにちは！ 👋 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A737D&center=true&vCenter=true&width=435&lines=Mobile+Developer+based+in+Japan;CTO+at+Anime+Tourism+Inc.;Student+at+Okayama+University" alt="Typing SVG" />
@@ -28,12 +28,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,firebase,gcp,aws,figma,java,flutter,github,androidstudio,apple,arduino" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,php,wordpress,vscode,discord" />
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,php,next,wordpress,vscode,discord" />
 </p>
 
 ### Learning & Improving
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,mysql,laravel,docker" />
 </p>
 
 ### Additional Skills
