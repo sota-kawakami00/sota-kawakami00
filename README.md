@@ -39,7 +39,7 @@
 
 ### Learning & Improving
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,mysql,laravel,docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,react,typescript,mysql,go,laravel,docker" />
 </p>
 
 ### Additional Skills
